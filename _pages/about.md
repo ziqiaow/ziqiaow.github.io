@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>zwang389 [at] jhu.edu</p>
-    <p>Office: E3001, 615 N. Wolfe St</p>
+    <p>Office: E3001 BSPH</p>
     <p>Baltimore, MD 21205</p>
 
 news: true # includes a list of news items
