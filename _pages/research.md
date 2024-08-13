@@ -77,7 +77,7 @@ sort: 3
 ##### __Method for Benefit-Risk Analysis in Clinical Trials__
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research_dose.gif" title="Example Figure 2: Benefit Risk Analysis in Difference Doses" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/research_dose.png" title="Example Figure 2: Benefit Risk Analysis in Difference Doses" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.</div>
 
