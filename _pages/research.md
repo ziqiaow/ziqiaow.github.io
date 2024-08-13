@@ -87,6 +87,4 @@ sort: 3
 
 &nbsp;
 
-
-[Example Figure 1](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en)
-[Example Figure 2](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)
+Example Figures Sources:[1](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en) [2](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)
