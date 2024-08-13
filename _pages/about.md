@@ -13,7 +13,7 @@ profile:
     <p>Department of Biostatistics</p>
     <p>Johns Hopkins University</p>
     <p>                    </p>
-    <p>zwang389 [at] jhu.edu</p>
+    <p>Email: zwang389@jhu.edu</p>
 
 
 news: true # includes a list of news items
