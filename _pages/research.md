@@ -64,9 +64,9 @@ sort: 3
 
 -	__Wang, Z.__, Lu, Y., Fornage, M., Jiao, L., Li, D., Wei, P. Identification of novel susceptibility methylation loci for pancreatic cancer in a two-phase epigenome-wide association study. *Epigenetics*, 2022. DOI: 10.1080/15592294.2022.2026591
 \emph{\underline{Platform presentation, IGES 2019}}
-[[PDF]](https://doi.org/10.1080/15592294.2022.2026591)
+[[Paper]](https://doi.org/10.1080/15592294.2022.2026591)
 -	Xu, Y.(co-first author), __Wang, Z.__(co-first author), Wei, P., Gairola, R., Kelsey, K., Sikora, A., Li, G., Gu, J. Hypermethylation of nc886 in HPV-positive oropharyngeal cancer and its clinical implications: an epigenome DNA methylation profiling study. *Molecular Therapy-Nucleic Acids*, 2022. DOI:10.1016/j.omtn.2022.11.012
-[[PDF]](https://doi.org/10.1016/j.omtn.2022.11.012)
+[[Paper]](https://doi.org/10.1016/j.omtn.2022.11.012)
 
 
 &nbsp;
