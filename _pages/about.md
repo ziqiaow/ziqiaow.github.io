@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 ## About Me
 I am a Postdoctoral Fellow in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University. I currently work with Dr. [Nilanjan Chatterjee](https://publichealth.jhu.edu/faculty/1826/nilanjan-chatterjee). 
 
-I obtained my PhD in Biostatistics from the University of Texas MD Anderson Cancer Center UTHealth Graduate School, where I was mentored by Dr. [Peng Wei](https://faculty.mdanderson.org/profiles/peng_wei.html). Before that, I finished my undergraduate studies in [Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/) at SUNY Stony Brook, New York and in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/).
+I obtained my PhD in Biostatistics from the University of Texas MD Anderson Cancer Center UTHealth Graduate School, under the mentorship of Dr. [Peng Wei](https://faculty.mdanderson.org/profiles/peng_wei.html). Before that, I finished my undergraduate studies in [Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/) at SUNY Stony Brook, New York and in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/).
 
 
 
