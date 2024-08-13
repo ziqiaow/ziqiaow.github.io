@@ -57,7 +57,7 @@ sort: 3
 ##### __Epigenome-Wide Association Studies in Cancer__
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research_methylation.png" title="Example Figure: DNA Methylation. [Fig Source](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/research_methylation.png" title="Example Figure 1: DNA Methylation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">The other contribution I made during my doctoral training period was investigating the role of DNA methylation in whole blood affecting susceptibility to pancreatic cancer. I carried out a two-phase epigenome-wide association study by examining two independent case-control studies measured within MDA and leveraged the Framingham Heart Study data to increase the sample size in controls. I discovered important differentially methylated CpG sites and regions associated with pancreatic cancer. I validated the results using a third independent dataset from the Women's Health Initiative, further confirmed the causal relationship of the discovered CpG sites using Mendelian randomization analysis, and investigated the functional consequences in gene expression. In short, this pioneering study yielded valuable information on how DNA methylation and gene expression relate to disease susceptibility, with clear implications for diagnosing and treating pancreatic cancer, where treatments tend to be complicated due to diagnosis at later stages. I performed another large-scale EWAS in studying the role of differentially methylated CpG sites between HPV-positive and HPV-negative oropharyngeal cancer patients and discovered a long non-coding RNA nc886 that leads to further important clinical implications.</div>
 &nbsp;
@@ -77,7 +77,7 @@ sort: 3
 ##### __Method for Benefit-Risk Analysis in Clinical Trials__
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research_dose.gif" title="Example Figure: Benefit Risk Analysis in Difference Doses. [Fig Source](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/research_dose.gif" title="Example Figure 2: Benefit Risk Analysis in Difference Doses" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.</div>
 
@@ -87,3 +87,6 @@ sort: 3
 
 &nbsp;
 
+
+[Example Figure 1](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en)
+[Example Figure 2](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)
