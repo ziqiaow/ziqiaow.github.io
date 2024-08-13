@@ -31,6 +31,7 @@ sort: 3
 &nbsp;
 
 
+
 ---
 
 ##### __Multi-Omics Data Integration__
@@ -39,6 +40,7 @@ sort: 3
         {% include figure.liquid path="assets/img/research_spatialimix.png" title="Spatial IMIX" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">During my doctoral training period, I developed novel methods for data integrations to examine the associations between genes and disease phenotype through multiple layers of omic information. My methods are based on multivariate Gaussian mixture models to characterize the precise correlations between different data types using summary statistics, leading to superior statistical power in association studies. I have also extended this work to spatially resolved high-dimensional genomics data, including DNA methylation and RNA sequencing data using specific datasets in bladder tumor samples, to increase the power of finding molecular signals contributing to cancer initiation, promotion, and progression. My work has several key advantages over conventional designs, including the novel feature of controlling the false discovery rate in significant genes across multiple omics data types, the ability to incorporate independent or overlapping sets of cohorts with respect to omics data, the generality of applications to meta-analysis and gene enrichment pathways, and fast computational efficiency by adopting the expectation-maximization (EM) algorithm.</div>
+  </div>  
 
 -	__Wang, Z.__, Wei, P. IMIX: A Multivariate Mixture Model Approach to Association Analysis Through Multi-Omics Data Integration. *Bioinformatics*, 2020. DOI:10.1093/bioinformatics/btaa1001
 [[Paper]](https://doi.org/10.1093/bioinformatics/btaa1001)
@@ -60,7 +62,8 @@ sort: 3
         {% include figure.liquid path="assets/img/research_methylation.png" title="Example Figure 1: DNA Methylation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">The other contribution I made during my doctoral training period was investigating the role of DNA methylation in whole blood affecting susceptibility to pancreatic cancer. I carried out a two-phase epigenome-wide association study by examining two independent case-control studies measured within MDA and leveraged the Framingham Heart Study data to increase the sample size in controls. I discovered important differentially methylated CpG sites and regions associated with pancreatic cancer. I validated the results using a third independent dataset from the Women's Health Initiative, further confirmed the causal relationship of the discovered CpG sites using Mendelian randomization analysis, and investigated the functional consequences in gene expression. In short, this pioneering study yielded valuable information on how DNA methylation and gene expression relate to disease susceptibility, with clear implications for diagnosing and treating pancreatic cancer, where treatments tend to be complicated due to diagnosis at later stages. I performed another large-scale EWAS in studying the role of differentially methylated CpG sites between HPV-positive and HPV-negative oropharyngeal cancer patients and discovered a long non-coding RNA nc886 that leads to further important clinical implications.</div>
-&nbsp;
+  </div>  
+
 
 -	__Wang, Z.__, Lu, Y., Fornage, M., Jiao, L., Li, D., Wei, P. Identification of novel susceptibility methylation loci for pancreatic cancer in a two-phase epigenome-wide association study. *Epigenetics*, 2022. DOI: 10.1080/15592294.2022.2026591
 \emph{\underline{Platform presentation, IGES 2019}}
@@ -80,11 +83,16 @@ sort: 3
         {% include figure.liquid path="assets/img/research_dose.png" title="Example Figure 2: Benefit Risk Analysis in Difference Doses" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.</div>
+  </div>  
 
 -	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. *Statistics in Biopharmaceutical Research*, 2020. DOI: 10.1080/19466315.2019.1690037
 [[Paper]](https://www.tandfonline.com/doi/full/10.1080/19466315.2019.1690037)
 [[Software]](https://github.com/ziqiaow/MvTrend)
 
 &nbsp;
+
+
+
+---
 
 Example Figures Sources:[1](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en) [2](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)
