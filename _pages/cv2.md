@@ -3,7 +3,7 @@ layout: post
 permalink: /cv/
 title: CV
 nav: true
-sort: 5
+sort: 6
 cv_pdf: Ziqiao_s_CV.pdf
 ---
 
