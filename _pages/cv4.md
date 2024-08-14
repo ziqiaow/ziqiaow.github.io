@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: page
 permalink: /cv/
-title: Curriculum Vitae
-nav: true
+title: CV
+nav: false
 sort: 5
 ---
 
