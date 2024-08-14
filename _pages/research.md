@@ -16,7 +16,7 @@ sort: 3
 
 We developed a series of novel methods for modeling of polygenic scores (PGS) in different epidemiological study designs. These include joint modeling of polygenic gene-environment correlations and interactions in case-control studies, and unified modeling of direct, indirect, and gxe interactions in family-based studies. We have shown improved efficiency in case-control studies that are comparable to cohort studies. Family-based methods can further eliminate potential population stratification bias in PGS estimations.
 
-{% include figure.html path="assets/img/research_gxe.png" width="90%" %}
+{% include figure.liquid path="assets/img/research_gxe.png" width="90%" %}
 
 
 - __Wang, Z.__, Shi, W., Carroll, R., Chatterjee, N. (2024). Joint Modeling of Gene-Environment Correlations and Interactions Using Polygenic Risk Scores in Case-Control Studies. *__American Journal of Epidemiology__*, 2024. DOI: 10.1093/aje/kwae081
