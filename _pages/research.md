@@ -63,7 +63,9 @@ We also investigated the role of DNA methylation in whole blood affecting suscep
 
 
 <p align="center">
-<img src="/assets/img/research_methylation.png" width=90% >
+<img src="/assets/img/research_methylation.png" width=75% >
+   </a>
+   <figcaption>[Fig Source]([https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en))</figcaption>
 </p>
 
 
@@ -84,7 +86,9 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 
 <p align="center">
-<img src="/assets/img/research_dose.png" width=90% >
+<img src="/assets/img/research_dose.png" width=75% >
+   </a>
+   <figcaption>[Fig Source](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)</figcaption>
 </p>
 
 
@@ -98,5 +102,3 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 
 ---
-
-Example Figures Sources:[1](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en) [2](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)
