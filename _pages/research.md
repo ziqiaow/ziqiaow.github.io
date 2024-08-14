@@ -77,6 +77,7 @@ __(Platform presentation, IGES 2019)__
 ##### __Method for Benefit-Risk Analysis in Clinical Trials__
 I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.
 
+{% include figure.liquid path="assets/img/research_dose.png" width="90%" %}
 
 
 -	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. *__Statistics in Biopharmaceutical Research__*, 2020. DOI: 10.1080/19466315.2019.1690037
