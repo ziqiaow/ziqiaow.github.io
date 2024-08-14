@@ -13,12 +13,8 @@ sort: 3
 
 ---
 #####  __Efficient Modeling of Polygenic Risk Scores and Environment Interplay__
-<div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
-  {% include figure.liquid path="assets/img/research_gxe.png" title="A Unified Model of Estimating Polygenic Risks in Case-Parent Trio Design" class="img-fluid rounded z-depth-1" %}
-</div>
-  <div class="col-sm-8 mt-3 mt-md-0">We developed a series of novel methods for modeling of polygenic scores (PGS) in different epidemiological study designs. These include joint modeling of polygenic gene-environment correlations and interactions in case-control studies, and unified modeling of direct, indirect, and gxe interactions in family-based studies. We have shown improved efficiency in case-control studies that are comparable to cohort studies. Family-based methods can further eliminate potential population stratification bias in PGS estimations.</div>
-  </div>  
+
+We developed a series of novel methods for modeling of polygenic scores (PGS) in different epidemiological study designs. These include joint modeling of polygenic gene-environment correlations and interactions in case-control studies, and unified modeling of direct, indirect, and gxe interactions in family-based studies. We have shown improved efficiency in case-control studies that are comparable to cohort studies. Family-based methods can further eliminate potential population stratification bias in PGS estimations.
 
 
 <p align="center">
