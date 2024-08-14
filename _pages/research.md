@@ -37,10 +37,8 @@ We developed novel methods for data integrations to examine the associations bet
 
 Our work has several key advantages over conventional designs, including the novel feature of controlling the false discovery rate in significant genes across multiple omics data types, the ability to incorporate independent or overlapping sets of cohorts with respect to omics data, the generality of applications to meta-analysis and gene enrichment pathways, and fast computational efficiency by adopting the expectation-maximization (EM) algorithm.
 
+{% include figure.liquid path="assets/img/research_spatialimix.png" width="90%" %}
 
-<p align="center">
-<img src="/assets/img/research_spatialimix.png" width=90% >
-</p>
 
 
 -	__Wang, Z.__, Wei, P. IMIX: A Multivariate Mixture Model Approach to Association Analysis Through Multi-Omics Data Integration. *__Bioinformatics__*, 2020. DOI:10.1093/bioinformatics/btaa1001
@@ -61,10 +59,7 @@ __(Platform presentation, ASHG 2020)__
 ##### __Epigenome-Wide Association Studies in Cancer__
 We also investigated the role of DNA methylation in whole blood affecting susceptibility to pancreatic cancer. We performed a two-phase epigenome-wide association study by examining two independent case-control studies measured within MDA and leveraged the Framingham Heart Study data to increase the sample size in controls. We discovered important differentially methylated CpG sites and regions associated with pancreatic cancer, and validated the results using a third independent dataset from the Women's Health Initiative. We further confirmed the causal relationship of the discovered CpG sites using Mendelian randomization analysis, and investigated the functional consequences in gene expression. We performed another large-scale EWAS in studying the role of differentially methylated CpG sites between HPV-positive and HPV-negative oropharyngeal cancer patients and discovered a long non-coding RNA nc886 that leads to further important clinical implications.
 
-
-<p align="center">
-<img src="/assets/img/research_methylation.jpg" width=90% >
-</p>
+{% include figure.liquid path="assets/img/research_methylation.jpg" width="90%" %}
 
 
 -	__Wang, Z.__, Lu, Y., Fornage, M., Jiao, L., Li, D., Wei, P. Identification of novel susceptibility methylation loci for pancreatic cancer in a two-phase epigenome-wide association study. *__Epigenetics__*, 2022. DOI: 10.1080/15592294.2022.2026591
