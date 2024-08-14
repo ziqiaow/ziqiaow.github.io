@@ -35,7 +35,9 @@ We developed a series of novel methods for modeling of polygenic scores (PGS) in
 ---
 
 ##### __Multi-Omics Data Integration__
-We developed novel methods for data integrations to examine the associations between genes and disease phenotype through multiple layers of omic information. Our methods are based on multivariate Gaussian mixture models to characterize the precise correlations between different data types using summary statistics, leading to superior statistical power in association studies. I have also extended this work to spatially resolved high-dimensional genomics data, including DNA methylation and RNA sequencing data using specific datasets in bladder tumor samples, to increase the power of finding molecular signals contributing to cancer initiation, promotion, and progression. My work has several key advantages over conventional designs, including the novel feature of controlling the false discovery rate in significant genes across multiple omics data types, the ability to incorporate independent or overlapping sets of cohorts with respect to omics data, the generality of applications to meta-analysis and gene enrichment pathways, and fast computational efficiency by adopting the expectation-maximization (EM) algorithm.
+We developed novel methods for data integrations to examine the associations between genes and disease phenotype through multiple layers of omic information. Our methods are based on multivariate Gaussian mixture models to characterize the precise correlations between different data types using summary statistics, leading to superior statistical power in association studies. We have also extended this work to spatially resolved high-dimensional genomics data, including DNA methylation and RNA sequencing data using specific datasets in bladder tumor samples, to increase the power of finding molecular signals contributing to cancer initiation, promotion, and progression. 
+
+Our work has several key advantages over conventional designs, including the novel feature of controlling the false discovery rate in significant genes across multiple omics data types, the ability to incorporate independent or overlapping sets of cohorts with respect to omics data, the generality of applications to meta-analysis and gene enrichment pathways, and fast computational efficiency by adopting the expectation-maximization (EM) algorithm.
 
 
 <p align="center">
@@ -59,13 +61,11 @@ __(Platform presentation, ASHG 2020)__
 ---
 
 ##### __Epigenome-Wide Association Studies in Cancer__
-We also investigated the role of DNA methylation in whole blood affecting susceptibility to pancreatic cancer. I performed a two-phase epigenome-wide association study by examining two independent case-control studies measured within MDA and leveraged the Framingham Heart Study data to increase the sample size in controls. We discovered important differentially methylated CpG sites and regions associated with pancreatic cancer. I validated the results using a third independent dataset from the Women's Health Initiative, further confirmed the causal relationship of the discovered CpG sites using Mendelian randomization analysis, and investigated the functional consequences in gene expression. In short, this pioneering study yielded valuable information on how DNA methylation and gene expression relate to disease susceptibility, with clear implications for diagnosing and treating pancreatic cancer, where treatments tend to be complicated due to diagnosis at later stages. I performed another large-scale EWAS in studying the role of differentially methylated CpG sites between HPV-positive and HPV-negative oropharyngeal cancer patients and discovered a long non-coding RNA nc886 that leads to further important clinical implications.
+We also investigated the role of DNA methylation in whole blood affecting susceptibility to pancreatic cancer. We performed a two-phase epigenome-wide association study by examining two independent case-control studies measured within MDA and leveraged the Framingham Heart Study data to increase the sample size in controls. We discovered important differentially methylated CpG sites and regions associated with pancreatic cancer, and validated the results using a third independent dataset from the Women's Health Initiative. We further confirmed the causal relationship of the discovered CpG sites using Mendelian randomization analysis, and investigated the functional consequences in gene expression. We performed another large-scale EWAS in studying the role of differentially methylated CpG sites between HPV-positive and HPV-negative oropharyngeal cancer patients and discovered a long non-coding RNA nc886 that leads to further important clinical implications.
 
 
 <p align="center">
-<img src="/assets/img/research_methylation.png" width=75% >
-   </a>
-   <figcaption>[Fig Source]([https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/](https://www.labclinics.com/2018/11/08/role-dna-methylation-disease/?lang=en))</figcaption>
+<img src="/assets/img/research_methylation.jpg" width=90% >
 </p>
 
 
@@ -86,7 +86,7 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 
 <p align="center">
-<img src="/assets/img/research_dose.png" width=75% >
+<img src="/assets/img/research_dose.png" width=55% >
    </a>
    <figcaption>[Fig Source](https://i-base.info/ttfa/learning-resources/drug-levels-drug-activity-and-side-effects/)</figcaption>
 </p>
