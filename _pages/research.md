@@ -59,7 +59,7 @@ __(Platform presentation, ASHG 2020)__
 ##### __Epigenome-Wide Association Studies in Cancer__
 We also investigated the role of DNA methylation in whole blood affecting susceptibility to pancreatic cancer. We performed a two-phase epigenome-wide association study by examining two independent case-control studies measured within MDA and leveraged the Framingham Heart Study data to increase the sample size in controls. We discovered important differentially methylated CpG sites and regions associated with pancreatic cancer, and validated the results using a third independent dataset from the Women's Health Initiative. We further confirmed the causal relationship of the discovered CpG sites using Mendelian randomization analysis, and investigated the functional consequences in gene expression. We performed another large-scale EWAS in studying the role of differentially methylated CpG sites between HPV-positive and HPV-negative oropharyngeal cancer patients and discovered a long non-coding RNA nc886 that leads to further important clinical implications.
 
-{% include figure.liquid path="assets/img/research_methylation.jpg" width="90%" %}
+{% include figure.liquid path="assets/img/research_methylation.jpg" width="80%" %}
 
 
 -	__Wang, Z.__, Lu, Y., Fornage, M., Jiao, L., Li, D., Wei, P. Identification of novel susceptibility methylation loci for pancreatic cancer in a two-phase epigenome-wide association study. *__Epigenetics__*, 2022. DOI: 10.1080/15592294.2022.2026591
@@ -77,7 +77,7 @@ __(Platform presentation, IGES 2019)__
 ##### __Method for Benefit-Risk Analysis in Clinical Trials__
 I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.
 
-{% include figure.liquid path="assets/img/research_dose.png" width="90%" %}
+{% include figure.liquid path="assets/img/research_dose.png" width="75%" %}
 
 
 -	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. *__Statistics in Biopharmaceutical Research__*, 2020. DOI: 10.1080/19466315.2019.1690037
