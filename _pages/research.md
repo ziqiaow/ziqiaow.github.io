@@ -22,7 +22,7 @@ sort: 3
 
 
 <p align="center">
-<img src="assets/img/research_gxe.png" width=400>
+<img src="/assets/img/research_gxe.png" width="200" height="200" >
 </p>
 
 - __Wang, Z.__, Shi, W., Carroll, R., Chatterjee, N. (2024). Joint Modeling of Gene-Environment Correlations and Interactions Using Polygenic Risk Scores in Case-Control Studies. *__American Journal of Epidemiology__*, 2024. DOI: 10.1093/aje/kwae081
