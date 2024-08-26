@@ -3,7 +3,7 @@ layout: cv2
 permalink: /cv/
 title: CV
 nav: true
-sort: 6
+nav_order: 4
 cv_pdf: Ziqiao_s_CV.pdf
 ---
 
