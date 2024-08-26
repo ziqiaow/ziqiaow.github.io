@@ -3,7 +3,7 @@ layout: page
 permalink: /software/
 title: Software
 nav: true
-sort: 4
+nav_order: 3
 ---
 
 
