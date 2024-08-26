@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Ziqiao Wang # the website title (if blank, full name will be used instead)
-first_name: Ziqiao Wang
+first_name: Ziqiao
 middle_name: 
-last_name: 
+last_name: Wang
 email: zwang389@jhu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ziqiao Wang's Academic Website. Based on [*folio](https://github.com/bogoli/-folio) design.
