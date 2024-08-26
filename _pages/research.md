@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-sort: 3
+nav_order: 2
 ---
   
   <div class="publications" markdown="1">
