@@ -74,12 +74,35 @@ __(Platform presentation, IGES 2019)__
 
 ---
 
+
+
+
+##### __Method for Benefit-Risk Analysis in Clinical Trials__
+I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.
+
+{% include figure.liquid path="assets/img/research_dose.png" width="75%" %}
+
+
+-	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. *__Statistics in Biopharmaceutical Research__*, 2020. DOI: 10.1080/19466315.2019.1690037
+[[Paper]](https://www.tandfonline.com/doi/full/10.1080/19466315.2019.1690037)
+[[Software]](https://github.com/ziqiaow/MvTrend)
+
+
+
+&nbsp;
+
+
+
+---
+
+
+
 ##### __Collaboration Work__
 
 I have done extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I have supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
 
 -	Bondaruk, J.(co-first author), Jaksik, R.(co-first author), __Wang, Z.__(co-first author), Cogdell, D.(co-first author), Lee, S., Chen, Y., Dinh, K., Majewski, T., Zhang, L., Cao, S., Yao, H., Weinstein, J., Navai, N., Dinney, C., Gao, J., Theodorescu, D., Logothetis, C., Guo, C., Wang, W., McConkey, D., Wei, P., Kimmel, M., Czerniak, B. The origin of bladder cancer from mucosal field effects. *__iScience__*, (2022).  DOI: 10.1016/j.isci.2022.104551
-[[paper]](https://pubmed.ncbi.nlm.nih.gov/35811851/)
+[[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(22)00823-9)
 -	Yang, G.(co-first author), Bondaruk, J.(co-first author), Cogdell, D.(co-first author), __Wang, Z.__(co-first author), Lee, S., Lee, J., Zhang, S., Choi, W., Wang, Y., Liang, Y., Wang, G., Wang, Y., Yao, H., Dadhania, V., Logothetis, C., Siefker-Radtke, A., Kamat, A., Dinney, C., Theodorescu, D., Kimmel, M., Wei, P., Guo, C., Weinstein, J., McConkey, D., Czerniak, B. Urothelial-to-Neural Plasticity Drives Progression to Small Cell Bladder Cancer. *__iScience__*, (2020).  DOI: 10.1016/j.isci.2020.101201. [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(20)30386-2)
 -	Lee, S., Bondaruk, J., Wang, Y., Chen, H., Lee, J., Majewski, T., Mullen, R., Cogdell, D., Chen, J., __Wang, Z.__, Yao, H., Kus, P., Jeong, J., Lee, I., Choi, W., Navai, N., Guo, C., Dinney, C., Baggerly, K., Mendelsohn, C., McConkey, D., Behringer, R., Kimmel, K., Wei, P., Czerniak, B. Loss of LPAR6 and CAB39L dysregulates the basal-to-luminal urothelial differentiation program, contributing to bladder carcinogenesis. *__Cell reports__*, (2024).  DOI: 10.1016/j.celrep.2024.114146.
 [[paper]](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00474-1)
@@ -103,25 +126,7 @@ Currently at Johns Hopkins University, I am leading the effort in identifying im
 - Dzaye, O., ..., __Wang, Z.__, et al. (2024+). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults $>75$ Years Old: The Atherosclerosis Risk in Communities Study.
 
 
-
 &nbsp;
-
-
----
-
-
-##### __Method for Benefit-Risk Analysis in Clinical Trials__
-I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.
-
-{% include figure.liquid path="assets/img/research_dose.png" width="75%" %}
-
-
--	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. *__Statistics in Biopharmaceutical Research__*, 2020. DOI: 10.1080/19466315.2019.1690037
-[[Paper]](https://www.tandfonline.com/doi/full/10.1080/19466315.2019.1690037)
-[[Software]](https://github.com/ziqiaow/MvTrend)
-
-&nbsp;
-
 
 
 ---
