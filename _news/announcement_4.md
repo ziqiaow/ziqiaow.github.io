@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent work on PRSxE interplay in case-control studies has been published on the American Journal of Epidemiology ([click here](https://doi.org/10.1093/aje/kwae081))! :sparkles: 
+Our recent collaboration work with Dr. Czerniak on Loss of LPAR6 and CAB39L dysregulates the basal-to-luminal urothelial differentiation program contributing to bladder carcinogenesis has been published on Cell Reports ([click here](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00474-1))
