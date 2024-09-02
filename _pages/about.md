@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_5131.jpg # 9507.jpeg 
+  image: IMG_7331.jpg # 5131.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Postdoctoral Fellow</p>
