@@ -74,6 +74,42 @@ __(Platform presentation, IGES 2019)__
 
 ---
 
+##### __Collaboration Work__
+
+I have done extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I have supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
+
+-	Bondaruk, J.(co-first author), Jaksik, R.(co-first author), __Wang, Z.__(co-first author), Cogdell, D.(co-first author), Lee, S., Chen, Y., Dinh, K., Majewski, T., Zhang, L., Cao, S., Yao, H., Weinstein, J., Navai, N., Dinney, C., Gao, J., Theodorescu, D., Logothetis, C., Guo, C., Wang, W., McConkey, D., Wei, P., Kimmel, M., Czerniak, B. The origin of bladder cancer from mucosal field effects. *__iScience__*, (2022).  DOI: 10.1016/j.isci.2022.104551
+[[paper]](https://pubmed.ncbi.nlm.nih.gov/35811851/)
+-	Yang, G.(co-first author), Bondaruk, J.(co-first author), Cogdell, D.(co-first author), __Wang, Z.__(co-first author), Lee, S., Lee, J., Zhang, S., Choi, W., Wang, Y., Liang, Y., Wang, G., Wang, Y., Yao, H., Dadhania, V., Logothetis, C., Siefker-Radtke, A., Kamat, A., Dinney, C., Theodorescu, D., Kimmel, M., Wei, P., Guo, C., Weinstein, J., McConkey, D., Czerniak, B. Urothelial-to-Neural Plasticity Drives Progression to Small Cell Bladder Cancer. *__iScience__*, (2020).  DOI: 10.1016/j.isci.2020.101201. [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(20)30386-2)
+-	Lee, S., Bondaruk, J., Wang, Y., Chen, H., Lee, J., Majewski, T., Mullen, R., Cogdell, D., Chen, J., __Wang, Z.__, Yao, H., Kus, P., Jeong, J., Lee, I., Choi, W., Navai, N., Guo, C., Dinney, C., Baggerly, K., Mendelsohn, C., McConkey, D., Behringer, R., Kimmel, K., Wei, P., Czerniak, B. Loss of LPAR6 and CAB39L dysregulates the basal-to-luminal urothelial differentiation program, contributing to bladder carcinogenesis. *__Cell reports__*, (2024).  DOI: 10.1016/j.celrep.2024.114146.
+[[paper]](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00474-1)
+-	Guo, C. C., Bondaruk, J., Yao, H., __Wang, Z.__, Zhang, L., Lee, S., Lee, J. G., Cogdell, D., Zhang, M., Yang, G., Dadhania, V., Choi, W., Wei, P., Gao, J., Theodorescu, D., Logothetis, C., Dinney, C., Kimmel, M., Weinstein, J. N., McConkey, D. J., … Czerniak, B. Assessment of Luminal and Basal Phenotypes in Bladder Cancer. *__Scientific reports__*, (2020). DOI: 10.1038/s41598-020-66747-7. [[paper]](https://www.nature.com/articles/s41598-020-66747-7)
+-	Guo, C., Majewski, T., Zhang, L., Yao, H., Bondaruk, J., Wang, Y., Zhang, S., __Wang, Z.__, Lee, J., Lee, S., Cogdell, D., Zhang, M., Wei, P., Grossman, H., Kamat, A., Duplisea, J., Ferguson, J., Huang, H., Dadhania, V., Dinney, C., Weinstein, J., Baggerly, K., McConkey, D., Czerniak, B. Dysregulation of EMT Drives the Progression to Clinically Aggressive Sarcomatoid Bladder Cancer. *__Cell reports__*, (2019). DOI: 10.1016/j.celrep.2019.04.048. [[paper]](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30521-2)
+-	Zhang, Y., Sturgis, E.M., Wei, P., Liu, H., __Wang, Z.__, Ma, Y., Liu, C., Gu, K.J., Wei, Q., and Li, G. A Genetic Variant within MDM4 3'UTR miRNA Binding Site is Associated with HPV16-positive Tumors and Survival of Oropharyngeal Cancer. *__Molecular carcinogenesis__*, (2019). DOI:10.1002/mc.23116. [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/mc.23116)
+-	Yang, Z., Zhang, Y., Wang, X., Huang, J., Guo, W., Wei, P., Li, G., __Wang, Z.__, Huang, Z., and Zhang, L.  Putative Biomarkers of Malignant Transformation of Sinonasal Inverted Papilloma into Squamous Cell Carcinoma. *__The Journal of international medical research__*, (2019). DOI:10.1177/0300060519838385. [[paper]](https://journals.sagepub.com/doi/full/10.1177/0300060519838385)
+    
+
+
+&nbsp;
+
+
+---
+
+
+Currently at Johns Hopkins University, I am leading the effort in identifying important plasma proteins associated with common solid cancer incidence. I also performed Mendelian randomization analyses to identify potential causal relationships between proteins and incident hypertension. I have also supported projects constructing polygenic risk scores for type 2 diabetes and coronary artery disease, as well as unsupervised clustering using proteomics data to identify disease subtypes in stroke.
+
+- __Wang, Z.__, Burk, V., Chatterjee, N., Platz, E. (2024+). Discovering plasma proteins associated with common solid cancer incidence in ARIC.
+- Mathews, L., Hu, X., __Wang, Z.__, et al. (2024+). MMP7 as a Causal Factor for Incident Hypertension and its Complications Proteomic Analysis from the Atherosclerosis Risk in Communities (ARIC) Study and Mendelian Randomization Study. 
+- Dzaye, O., ..., __Wang, Z.__, et al. (2024+). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults $>75$ Years Old: The Atherosclerosis Risk in Communities Study.
+
+
+
+&nbsp;
+
+
+---
+
+
 ##### __Method for Benefit-Risk Analysis in Clinical Trials__
 I collaborated with Dr. Jie Chen at Merck during my summer internship and developed a novel method to test for significant trend effects of multiple dosage levels of medication use by using composite endpoints in clinical trial studies. This method prioritizes the user's intended endpoints including the adverse events and efficacy endpoints and assesses whether the examined dose levels in clinical trials show an increasing or decreasing trend effect. This method is computationally fast and robust to type I errors.
 
