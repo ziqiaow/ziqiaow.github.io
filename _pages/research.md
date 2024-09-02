@@ -97,7 +97,7 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 
 
-##### __Collaboration Work__
+##### __Collaborations with biomedical researchers and epidemiologists__
 
 I have done extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I have supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
 
