@@ -19,10 +19,10 @@ We developed a series of novel methods for modeling of polygenic scores (PGS) in
 {% include figure.liquid path="assets/img/research_gxe.png" width="90%" %}
 
 
-- __Wang, Z.__, Shi, W., Carroll, R., Chatterjee, N. (2024). Joint Modeling of Gene-Environment Correlations and Interactions Using Polygenic Risk Scores in Case-Control Studies. *__American Journal of Epidemiology__*, 2024. DOI: 10.1093/aje/kwae081
+- __Wang, Z.__, Shi, W., Carroll, R., Chatterjee, N. (2024). Joint Modeling of Gene-Environment Correlations and Interactions Using Polygenic Risk Scores in Case-Control Studies. *__American Journal of Epidemiology__*. DOI: 10.1093/aje/kwae081
 [[Paper]](https://doi.org/10.1093/aje/kwae081) 
 [[Software]](https://github.com/ziqiaow/RetroGE)  
-- __Wang, Z.__, Ray, D., Grosvenor, L., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. Novel Methods for Estimating Risk Parameters Associated with Polygenic Scores using Case-Parent Trio Designs. 2024+.
+- __Wang, Z.__, Ray, D., Grosvenor, L., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. (2024+). Novel Methods for Estimating Risk Parameters Associated with Polygenic Scores using Case-Parent Trio Designs.
 [[Paper]]() 
 [[Software]](https://github.com/ziqiaow/PRS-TRI)  
 
@@ -41,11 +41,12 @@ Our work has several key advantages over conventional designs, including the nov
 
 
 
--	__Wang, Z.__, Wei, P. IMIX: A Multivariate Mixture Model Approach to Association Analysis Through Multi-Omics Data Integration. *__Bioinformatics__*, 2020. DOI:10.1093/bioinformatics/btaa1001
+-	__Wang, Z.__, Wei, P. (2020). IMIX: A Multivariate Mixture Model Approach to Association Analysis Through Multi-Omics Data Integration. *__Bioinformatics__*.
+ DOI:10.1093/bioinformatics/btaa1001
 [[Paper]](https://doi.org/10.1093/bioinformatics/btaa1001)
 [[Software]](https://github.com/ziqiaow/IMIX)
 __(Platform presentation, ASHG 2020)__
--	__Wang, Z.__, Czerniak, B., Wei, P. Spatial IMIX: A Mixture Model Approach to Spatially Correlated Multi-Omics Data Integration. *Preprint*, 2023. DOI:10.1101/2023.07.15.549148
+-	__Wang, Z.__, Czerniak, B., Wei, P. (2023). Spatial IMIX: A Mixture Model Approach to Spatially Correlated Multi-Omics Data Integration. *Preprint*. DOI:10.1101/2023.07.15.549148
 [[Paper]](https://www.biorxiv.org/content/10.1101/2023.07.15.549148v1)
 [[Software]](https://github.com/ziqiaow/spatialimix)
 
@@ -62,10 +63,10 @@ We also investigated the role of DNA methylation in whole blood affecting suscep
 {% include figure.liquid path="assets/img/research_methylation.jpg" width="80%" %}
 
 
--	__Wang, Z.__, Lu, Y., Fornage, M., Jiao, L., Li, D., Wei, P. Identification of novel susceptibility methylation loci for pancreatic cancer in a two-phase epigenome-wide association study. *__Epigenetics__*, 2022. DOI: 10.1080/15592294.2022.2026591
+-	__Wang, Z.__, Lu, Y., Fornage, M., Jiao, L., Li, D., Wei, P. (2022). Identification of novel susceptibility methylation loci for pancreatic cancer in a two-phase epigenome-wide association study. *__Epigenetics__*. DOI: 10.1080/15592294.2022.2026591
 [[Paper]](https://doi.org/10.1080/15592294.2022.2026591)
 __(Platform presentation, IGES 2019)__
--	Xu, Y.(co-first author), __Wang, Z.__(co-first author), Wei, P., Gairola, R., Kelsey, K., Sikora, A., Li, G., Gu, J. Hypermethylation of nc886 in HPV-positive oropharyngeal cancer and its clinical implications: an epigenome DNA methylation profiling study. *__Molecular Therapy-Nucleic Acids__*, 2022. DOI:10.1016/j.omtn.2022.11.012
+-	Xu, Y.(co-first author), __Wang, Z.__(co-first author), Wei, P., Gairola, R., Kelsey, K., Sikora, A., Li, G., Gu, J. (2022). Hypermethylation of nc886 in HPV-positive oropharyngeal cancer and its clinical implications: an epigenome DNA methylation profiling study. *__Molecular Therapy-Nucleic Acids__*. DOI:10.1016/j.omtn.2022.11.012
 [[Paper]](https://doi.org/10.1016/j.omtn.2022.11.012)
 
 
@@ -83,7 +84,7 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 {% include figure.liquid path="assets/img/research_dose.png" width="75%" %}
 
 
--	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. *__Statistics in Biopharmaceutical Research__*, 2020. DOI: 10.1080/19466315.2019.1690037
+-	__Wang, Z.__, Chen J. Testing for Trend in Benefit-Risk Analysis with Prioritized Multiple Outcomes. (2020). *__Statistics in Biopharmaceutical Research__*. DOI: 10.1080/19466315.2019.1690037
 [[Paper]](https://www.tandfonline.com/doi/full/10.1080/19466315.2019.1690037)
 [[Software]](https://github.com/ziqiaow/MvTrend)
 
@@ -101,15 +102,15 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 I have done extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I have supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
 
--	Bondaruk, J.(co-first author), Jaksik, R.(co-first author), __Wang, Z.__(co-first author), Cogdell, D.(co-first author), Lee, S., Chen, Y., Dinh, K., Majewski, T., Zhang, L., Cao, S., Yao, H., Weinstein, J., Navai, N., Dinney, C., Gao, J., Theodorescu, D., Logothetis, C., Guo, C., Wang, W., McConkey, D., Wei, P., Kimmel, M., Czerniak, B. The origin of bladder cancer from mucosal field effects. *__iScience__*, (2022).  DOI: 10.1016/j.isci.2022.104551
+-	Bondaruk, J.(co-first author), Jaksik, R.(co-first author), __Wang, Z.__(co-first author), Cogdell, D.(co-first author), Lee, S., Chen, Y., Dinh, K., Majewski, T., Zhang, L., Cao, S., Yao, H., Weinstein, J., Navai, N., Dinney, C., Gao, J., Theodorescu, D., Logothetis, C., Guo, C., Wang, W., McConkey, D., Wei, P., Kimmel, M., Czerniak, B. (2022). The origin of bladder cancer from mucosal field effects. *__iScience__*.  DOI: 10.1016/j.isci.2022.104551
 [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(22)00823-9)
--	Yang, G.(co-first author), Bondaruk, J.(co-first author), Cogdell, D.(co-first author), __Wang, Z.__(co-first author), Lee, S., Lee, J., Zhang, S., Choi, W., Wang, Y., Liang, Y., Wang, G., Wang, Y., Yao, H., Dadhania, V., Logothetis, C., Siefker-Radtke, A., Kamat, A., Dinney, C., Theodorescu, D., Kimmel, M., Wei, P., Guo, C., Weinstein, J., McConkey, D., Czerniak, B. Urothelial-to-Neural Plasticity Drives Progression to Small Cell Bladder Cancer. *__iScience__*, (2020).  DOI: 10.1016/j.isci.2020.101201. [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(20)30386-2)
--	Lee, S., Bondaruk, J., Wang, Y., Chen, H., Lee, J., Majewski, T., Mullen, R., Cogdell, D., Chen, J., __Wang, Z.__, Yao, H., Kus, P., Jeong, J., Lee, I., Choi, W., Navai, N., Guo, C., Dinney, C., Baggerly, K., Mendelsohn, C., McConkey, D., Behringer, R., Kimmel, K., Wei, P., Czerniak, B. Loss of LPAR6 and CAB39L dysregulates the basal-to-luminal urothelial differentiation program, contributing to bladder carcinogenesis. *__Cell reports__*, (2024).  DOI: 10.1016/j.celrep.2024.114146.
+-	Yang, G.(co-first author), Bondaruk, J.(co-first author), Cogdell, D.(co-first author), __Wang, Z.__(co-first author), Lee, S., Lee, J., Zhang, S., Choi, W., Wang, Y., Liang, Y., Wang, G., Wang, Y., Yao, H., Dadhania, V., Logothetis, C., Siefker-Radtke, A., Kamat, A., Dinney, C., Theodorescu, D., Kimmel, M., Wei, P., Guo, C., Weinstein, J., McConkey, D., Czerniak, B. (2020). Urothelial-to-Neural Plasticity Drives Progression to Small Cell Bladder Cancer. *__iScience__*. DOI: 10.1016/j.isci.2020.101201. [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(20)30386-2)
+-	Lee, S., Bondaruk, J., Wang, Y., Chen, H., Lee, J., Majewski, T., Mullen, R., Cogdell, D., Chen, J., __Wang, Z.__, Yao, H., Kus, P., Jeong, J., Lee, I., Choi, W., Navai, N., Guo, C., Dinney, C., Baggerly, K., Mendelsohn, C., McConkey, D., Behringer, R., Kimmel, K., Wei, P., Czerniak, B. Loss of LPAR6 and CAB39L dysregulates the basal-to-luminal urothelial differentiation program, contributing to bladder carcinogenesis. (2024). *__Cell reports__*. DOI: 10.1016/j.celrep.2024.114146.
 [[paper]](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00474-1)
--	Guo, C. C., Bondaruk, J., Yao, H., __Wang, Z.__, Zhang, L., Lee, S., Lee, J. G., Cogdell, D., Zhang, M., Yang, G., Dadhania, V., Choi, W., Wei, P., Gao, J., Theodorescu, D., Logothetis, C., Dinney, C., Kimmel, M., Weinstein, J. N., McConkey, D. J., … Czerniak, B. Assessment of Luminal and Basal Phenotypes in Bladder Cancer. *__Scientific reports__*, (2020). DOI: 10.1038/s41598-020-66747-7. [[paper]](https://www.nature.com/articles/s41598-020-66747-7)
--	Guo, C., Majewski, T., Zhang, L., Yao, H., Bondaruk, J., Wang, Y., Zhang, S., __Wang, Z.__, Lee, J., Lee, S., Cogdell, D., Zhang, M., Wei, P., Grossman, H., Kamat, A., Duplisea, J., Ferguson, J., Huang, H., Dadhania, V., Dinney, C., Weinstein, J., Baggerly, K., McConkey, D., Czerniak, B. Dysregulation of EMT Drives the Progression to Clinically Aggressive Sarcomatoid Bladder Cancer. *__Cell reports__*, (2019). DOI: 10.1016/j.celrep.2019.04.048. [[paper]](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30521-2)
--	Zhang, Y., Sturgis, E.M., Wei, P., Liu, H., __Wang, Z.__, Ma, Y., Liu, C., Gu, K.J., Wei, Q., and Li, G. A Genetic Variant within MDM4 3'UTR miRNA Binding Site is Associated with HPV16-positive Tumors and Survival of Oropharyngeal Cancer. *__Molecular carcinogenesis__*, (2019). DOI:10.1002/mc.23116. [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/mc.23116)
--	Yang, Z., Zhang, Y., Wang, X., Huang, J., Guo, W., Wei, P., Li, G., __Wang, Z.__, Huang, Z., and Zhang, L.  Putative Biomarkers of Malignant Transformation of Sinonasal Inverted Papilloma into Squamous Cell Carcinoma. *__The Journal of international medical research__*, (2019). DOI:10.1177/0300060519838385. [[paper]](https://journals.sagepub.com/doi/full/10.1177/0300060519838385)
+-	Guo, C. C., Bondaruk, J., Yao, H., __Wang, Z.__, Zhang, L., Lee, S., Lee, J. G., Cogdell, D., Zhang, M., Yang, G., Dadhania, V., Choi, W., Wei, P., Gao, J., Theodorescu, D., Logothetis, C., Dinney, C., Kimmel, M., Weinstein, J. N., McConkey, D. J., … Czerniak, B. (2020). Assessment of Luminal and Basal Phenotypes in Bladder Cancer. *__Scientific reports__*. DOI: 10.1038/s41598-020-66747-7. [[paper]](https://www.nature.com/articles/s41598-020-66747-7)
+-	Guo, C., Majewski, T., Zhang, L., Yao, H., Bondaruk, J., Wang, Y., Zhang, S., __Wang, Z.__, Lee, J., Lee, S., Cogdell, D., Zhang, M., Wei, P., Grossman, H., Kamat, A., Duplisea, J., Ferguson, J., Huang, H., Dadhania, V., Dinney, C., Weinstein, J., Baggerly, K., McConkey, D., Czerniak, B. (2019). Dysregulation of EMT Drives the Progression to Clinically Aggressive Sarcomatoid Bladder Cancer. *__Cell reports__*. DOI: 10.1016/j.celrep.2019.04.048. [[paper]](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30521-2)
+-	Zhang, Y., Sturgis, E.M., Wei, P., Liu, H., __Wang, Z.__, Ma, Y., Liu, C., Gu, K.J., Wei, Q., and Li, G. A Genetic Variant within MDM4 3'UTR miRNA Binding Site is Associated with HPV16-positive Tumors and Survival of Oropharyngeal Cancer. (2019). *__Molecular carcinogenesis__*. DOI:10.1002/mc.23116. [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/mc.23116)
+-	Yang, Z., Zhang, Y., Wang, X., Huang, J., Guo, W., Wei, P., Li, G., __Wang, Z.__, Huang, Z., and Zhang, L.  Putative Biomarkers of Malignant Transformation of Sinonasal Inverted Papilloma into Squamous Cell Carcinoma. (2019). *__The Journal of international medical research__*. DOI:10.1177/0300060519838385. [[paper]](https://journals.sagepub.com/doi/full/10.1177/0300060519838385)
     
 
 
