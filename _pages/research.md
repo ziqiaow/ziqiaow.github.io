@@ -100,7 +100,7 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 ##### __Collaborations with Biomedical Researchers__
 
-I did extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I have supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
+I did extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
 
 -	Bondaruk, J.(co-first author), Jaksik, R.(co-first author), __Wang, Z.__(co-first author), Cogdell, D.(co-first author), Lee, S., Chen, Y., Dinh, K., Majewski, T., Zhang, L., Cao, S., Yao, H., Weinstein, J., Navai, N., Dinney, C., Gao, J., Theodorescu, D., Logothetis, C., Guo, C., Wang, W., McConkey, D., Wei, P., Kimmel, M., Czerniak, B. (2022). The origin of bladder cancer from mucosal field effects. *__iScience__*.  DOI: 10.1016/j.isci.2022.104551
 [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(22)00823-9)
