@@ -98,7 +98,7 @@ I collaborated with Dr. Jie Chen at Merck during my summer internship and develo
 
 
 
-##### __Collaborations with Biomedical Researchers__
+##### __Collaborations in Biomedical Sciences__
 
 I did extensive collaboration work with biomedical researchers at MD Anderson Cancer Center during my PhD study. Applying my knowledge in statistical genetics and genomics, I supported a variety of important research work in molecular biology studying bladder cancer, pancreatic cancer, and head and neck cancer. 
 
@@ -119,7 +119,6 @@ I did extensive collaboration work with biomedical researchers at MD Anderson Ca
 
 ---
 
-##### __Collaborations with Epidemiologists__
 Currently at Johns Hopkins University, I am leading the effort in identifying important plasma proteins associated with common solid cancer incidence. I also performed Mendelian randomization analyses to identify potential causal relationships between proteins and incident hypertension. I have also supported projects constructing polygenic risk scores for type 2 diabetes and coronary artery disease, as well as unsupervised clustering using proteomics data to identify disease subtypes in stroke.
 
 - __Wang, Z.__, Burk, V., Chatterjee, N., Platz, E. (2024+). Discovering plasma proteins associated with common solid cancer incidence in ARIC.
