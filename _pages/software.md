@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-#### [PRS-TRI](https://github.com/ziqiaow/PRS-TRI){:target="_blank"}
+#### [PGS-TRI](https://github.com/ziqiaow/PGS-TRI){:target="_blank"}
 An R package for estimating risk parameters under polygenic models from case-parent trios using a likelihood-based method. [[Preprint]()]
 
 
