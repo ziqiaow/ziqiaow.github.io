@@ -22,9 +22,9 @@ We developed a series of novel methods for modeling of polygenic scores (PGS) in
 - __Wang, Z.__, Shi, W., Carroll, R., Chatterjee, N. (2024). Joint Modeling of Gene-Environment Correlations and Interactions Using Polygenic Risk Scores in Case-Control Studies. *__American Journal of Epidemiology__*. DOI: 10.1093/aje/kwae081
 [[Paper]](https://doi.org/10.1093/aje/kwae081) 
 [[Software]](https://github.com/ziqiaow/RetroGE)  
-- __Wang, Z.__, Ray, D., Grosvenor, L., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. (2024+). Novel Methods for Estimating Risk Parameters Associated with Polygenic Scores using Case-Parent Trio Designs.
+- __Wang, Z.__, Grosvenor, L., Ray, D., Ruczinski, I., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. (2024+). Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies.
 [[Paper]]() 
-[[Software]](https://github.com/ziqiaow/PRS-TRI)  
+[[Software]](https://github.com/ziqiaow/PGS-TRI)  
 
 &nbsp;
 
