@@ -123,7 +123,7 @@ Currently at Johns Hopkins University, I am leading the effort in identifying im
 
 - __Wang, Z.__, Burk, V., Chatterjee, N., Platz, E. (2024+). Discovering plasma proteins associated with common solid cancer incidence in ARIC.
 - Mathews, L., Hu, X., __Wang, Z.__, et al. (2024+). MMP7 as a Causal Factor for Incident Hypertension and its Complications Proteomic Analysis from the Atherosclerosis Risk in Communities (ARIC) Study and Mendelian Randomization Study. 
-- Dzaye, O., ..., __Wang, Z.__, Chatterjee, N., Matsushita, K., Blaha, M. (2024). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults >75 Years Old: The Atherosclerosis Risk in Communities Study. Circulation (Accepted).
+- Dzaye, O., ..., __Wang, Z.__, Chatterjee, N., Matsushita, K., Blaha, M. (2024). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults >75 Years Old: The Atherosclerosis Risk in Communities Study. *__Circulation__* (Accepted).
 
 
 &nbsp;
