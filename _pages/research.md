@@ -23,7 +23,7 @@ We developed a series of novel methods for modeling of polygenic scores (PGS) in
 [[Paper]](https://doi.org/10.1093/aje/kwae081) 
 [[Software]](https://github.com/ziqiaow/RetroGE)  
 - __Wang, Z.__, Grosvenor, L., Ray, D., Ruczinski, I., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. (2024+). Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies.
-[[Paper]]() 
+[[Preprint]](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v1) 
 [[Software]](https://github.com/ziqiaow/PGS.TRI)  
 
 &nbsp;
