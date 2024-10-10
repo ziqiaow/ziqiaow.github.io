@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out our new preprint titled "Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies" [PGS-TRI](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v1) !
+Check out our new work "PGS-TRI", preprint titled "Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies" [Link](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v1) !
