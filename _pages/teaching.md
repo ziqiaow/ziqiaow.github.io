@@ -25,5 +25,5 @@ Teaching assistant, Spring 2021 [[link](https://gsbs.uth.edu/courses/course?id=6
 Teaching assistant, Fall 2015
 
 --- 
-#### Data Analysis, Department of Applied Mathematics and Statistics, Stony Brook University
+#####  __Data Analysis, Department of Applied Mathematics and Statistics, Stony Brook University__
 Teaching assistant, Summer 2015
