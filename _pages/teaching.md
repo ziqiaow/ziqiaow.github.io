@@ -2,11 +2,27 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: T
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+#### Risk Prediction and Precision Medicine 140.721, Department of Biostatistics, Johns Hopkins University
+Guest lecturer, Fall 2024
+[[Course Materials]]
+[[Tutorial](https://github.com/ziqiaow/PRS-tutorial)]
+
+
+
+--- 
+#### Modern Nonparametrics GS01 1273, MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences
+Teaching assistant, Spring 2021 [[link](https://gsbs.uth.edu/courses/course?id=60f7608f-4b74-4324-bacf-6f3aa9d56cac)]
+
+
+--- 
+#### Finite Mathematics Structures, Department of Applied Mathematics and Statistics, Stony Brook University
+Teaching assistant, Fall 2015
+
+--- 
+#### Data Analysis, Department of Applied Mathematics and Statistics, Stony Brook University
+Teaching assistant, Summer 2015
