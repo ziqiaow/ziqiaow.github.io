@@ -9,7 +9,7 @@ nav_order: 4
 
 #### Risk Prediction and Precision Medicine 140.721, Department of Biostatistics, Johns Hopkins University
 Guest lecturer, Fall 2024
-[[Course Materials]]
+[[Course Materials](https://github.com/ziqiaow/PRS-tutorial/blob/main/AdvancedPRS_1_11112024.pdf)]
 [[Tutorial](https://github.com/ziqiaow/PRS-tutorial)]
 
 
