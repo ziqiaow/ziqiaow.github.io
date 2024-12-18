@@ -123,7 +123,8 @@ Currently at Johns Hopkins University, I am leading the effort in identifying im
 
 - __Wang, Z.__, Burk, V., Chatterjee, N., Platz, E. (2024+). Discovering plasma proteins associated with common solid cancer incidence in ARIC.
 - Mathews, L., Hu, X., __Wang, Z.__, et al. (2024+). MMP7 as a Causal Factor for Incident Hypertension and its Complications Proteomic Analysis from the Atherosclerosis Risk in Communities (ARIC) Study and Mendelian Randomization Study. 
-- Dzaye, O., ..., __Wang, Z.__, Chatterjee, N., Matsushita, K., Blaha, M. (2024). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults >75 Years Old: The Atherosclerosis Risk in Communities Study. *__Circulation__* (Accepted).
+- Dzaye, O., ..., __Wang, Z.__, Chatterjee, N., Matsushita, K., Blaha, M. (2024). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults >75 Years Old: The Atherosclerosis Risk in Communities Study. *__Circulation: Cardiovascular Imaging__*. DOI: 10.1161/CIRCIMAGING.123.016377. [[paper]](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.123.016377)
+- Zhang, M., Ru, M., Zhang, J., __Wang, Z.__, et al. (2024). Alcohol consumption does not modify the polygenic risk score-based genetic risk of breast cancer in postmenopausal women: Atherosclerosis Risk in Communities study. *__Cancer Prevention Research__*. DOI: 10.1158/1940-6207.CAPR-24-0208. [[paper]](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.123.016377)
 
 
 &nbsp;
