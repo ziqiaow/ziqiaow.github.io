@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am an incoming Assistant Professor in the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) at the University of Virginia and member of the UVA Comprehensive Cancer Center. Currently I am a Postdoctoral Fellow in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University working with Dr. [Nilanjan Chatterjee](https://publichealth.jhu.edu/faculty/1826/nilanjan-chatterjee). My research is supported by the NIH Pathway to Independence (K99/R00) award.
+I am an incoming Assistant Professor in the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) at the University of Virginia and member of the [UVA Comprehensive Cancer Center](https://med.virginia.edu/cancer-research/). Currently I am a Postdoctoral Fellow in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University working with Dr. [Nilanjan Chatterjee](https://publichealth.jhu.edu/faculty/1826/nilanjan-chatterjee). My research is supported by the NIH Pathway to Independence (K99/R00) award.
 
 I obtained my PhD in Biostatistics from the University of Texas MD Anderson Cancer Center UTHealth Graduate School, under the mentorship of Dr. [Peng Wei](https://faculty.mdanderson.org/profiles/peng_wei.html). Before that, I did my undergraduate studies in [Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/) at SUNY Stony Brook, New York and in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/).
 
