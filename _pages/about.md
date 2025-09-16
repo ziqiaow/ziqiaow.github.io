@@ -12,7 +12,7 @@ profile:
     <p>Assistant Professor of Genome Sciences</p>
     <p>University of Virginia</p>
     <p>                    </p>
-    <p>Email: mxk6kg@virginia.edu </p>
+    <p>Email: ziqiao.wang@virginia.edu </p>
 
 
 news: true # includes a list of news items
