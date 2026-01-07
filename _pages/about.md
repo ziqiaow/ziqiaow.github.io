@@ -21,11 +21,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am an incoming Assistant Professor in the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) at the University of Virginia and member of the [UVA Comprehensive Cancer Center](https://med.virginia.edu/cancer-research/). Currently I am a Postdoctoral Fellow in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University working with Dr. [Nilanjan Chatterjee](https://publichealth.jhu.edu/faculty/1826/nilanjan-chatterjee). My research is supported by the NIH Pathway to Independence (K99/R00) award.
+I am a tenure-track Assistant Professor in the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) at the University of Virginia and member of the [UVA Comprehensive Cancer Center](https://med.virginia.edu/cancer-research/). My research is supported by the NIH Pathway to Independence (K99/R00) award.
 
-I obtained my PhD in Biostatistics from the University of Texas MD Anderson Cancer Center UTHealth Graduate School, under the mentorship of Dr. [Peng Wei](https://faculty.mdanderson.org/profiles/peng_wei.html). Before that, I did my undergraduate studies in [Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/) at SUNY Stony Brook, New York and in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/).
+Previously I was a Postdoctoral Fellow in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University working with Dr. [Nilanjan Chatterjee](https://publichealth.jhu.edu/faculty/1826/nilanjan-chatterjee). I obtained my PhD in Biostatistics from the University of Texas MD Anderson Cancer Center UTHealth Graduate School, under the mentorship of Dr. [Peng Wei](https://faculty.mdanderson.org/profiles/peng_wei.html). Before that, I did my undergraduate studies in [Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/) at SUNY Stony Brook, New York and in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/).
 
 
+### We are hiring
+We have several openings for postdoctoral research associates and master's-level biostatisticians. To apply, please email your CV and names of 3 references to me at ziqiao.wang@virginia.edu. Applications received by February 31, 2026, will be given priority in the first review round; however, the positions will remain open until filled. 
+
+Research directions include but not limited to multi-omics data integration, polygenic risk score analysis, modeling of gene–environment interactions, and Mendelian randomization studies for causal inference. There will be opportunities to collaborate with the Department of Data Science, Department of Statistics, and UVA Comprehensive Cancer Center. 
 
 ### Research Summary
 I study how genetics, genomics, and environmental factors together drive the development of human diseases. I specialize in statistical methodology developments, data analysis, and theoretical investigations, and my research typically utilizes large-scale datasets from biobanks and epidemiological studies that include molecular genetic and genomic data, along with human behavioral and lifestyle factors.
