@@ -31,7 +31,7 @@ We have several openings for a postdoctoral research associate and a master's-le
 
 Research directions include but not limited to multi-omics data integration, polygenic risk score analysis, modeling of gene–environment interactions, and Mendelian randomization studies for causal inference. There will be opportunities to collaborate with the Department of Data Science, Department of Statistics, and UVA Comprehensive Cancer Center. 
 
-### Research Summary
+### Research summary
 I study how genetics, genomics, and environmental factors together drive the development of human diseases. I specialize in statistical methodology developments, data analysis, and theoretical investigations, and my research typically utilizes large-scale datasets from biobanks and epidemiological studies that include molecular genetic and genomic data, along with human behavioral and lifestyle factors.
 
 One area of my research is polygenic scores (PGS), measures meant to summarize a person’s genetic predisposition for a trait and/or a disease such as cancers and childhood developmental disorders. While PGS are becoming more and more predictive of disease risks, there is much work to be done in the interpretations and applications of PGS. In particular, I developed novel statistical methods to jointly model gene-environment correlations and interactions using PGS in case-control studies, with data applications in the UK Biobank (Wang et al., AJE, 2024); I also developed methods in estimating risk parameters of PGS in family-based studies to understand genetic direct, indirect, and gene-environment interactions between genotype-phenotype associations.
