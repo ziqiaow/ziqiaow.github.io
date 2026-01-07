@@ -27,7 +27,7 @@ Previously I was a Postdoctoral Fellow in the [Department of Biostatistics](http
 
 
 ### We are hiring
-We have several openings for postdoctoral research associates and master's-level biostatisticians. To apply, please email your CV and names of 3 references to me at ziqiao.wang@virginia.edu. Applications received by February 31, 2026, will be given priority in the first review round; however, the positions will remain open until filled. 
+We have several openings for a postdoctoral research associate and a master's-level biostatistician. To apply, please email your CV and names of 3 references to me at ziqiao.wang@virginia.edu. Applications received by February 31, 2026, will be given priority in the first review round; however, the positions will remain open until filled. 
 
 Research directions include but not limited to multi-omics data integration, polygenic risk score analysis, modeling of gene–environment interactions, and Mendelian randomization studies for causal inference. There will be opportunities to collaborate with the Department of Data Science, Department of Statistics, and UVA Comprehensive Cancer Center. 
 
