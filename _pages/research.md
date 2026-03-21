@@ -119,7 +119,7 @@ I welcome collaborations with biologists, physicians, epidemiologists, and other
 
 ---
 
-Johns Hopkins University, I lead the effort in identifying important plasma proteins associated with common solid cancer incidence. I also performed Mendelian randomization analyses to identify potential causal relationships between proteins and incident hypertension. I have also supported projects constructing polygenic risk scores for type 2 diabetes and coronary artery disease, as well as unsupervised clustering using proteomics data to identify disease subtypes in stroke.
+At Johns Hopkins University, I led the effort in identifying important plasma proteins associated with common solid cancer incidence. I also performed Mendelian randomization analyses to identify potential causal relationships between proteins and incident hypertension. I have also supported projects constructing polygenic risk scores for type 2 diabetes and coronary artery disease, as well as unsupervised clustering using proteomics data to identify disease subtypes in stroke.
 
 - __Wang, Z.__, Burk, V., ..., Chatterjee, N., Platz, E. (2026+). Discovering plasma proteins associated with common solid cancer incidence in ARIC. [[Preprint]](https://www.medrxiv.org/content/10.64898/2026.03.16.26348527v1)
 - Mathews, L., Hu, X., __Wang, Z.__, et al. (2026+). MMP7 as a Causal Factor for Incident Hypertension and its Complications Proteomic Analysis from the Atherosclerosis Risk in Communities (ARIC) Study and Mendelian Randomization Study. 
