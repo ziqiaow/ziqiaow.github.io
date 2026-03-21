@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Ziqiao_s_CV.pdf
+cv_pdf: Ziqiao_s_CV_03212026.pdf
 ---
 
