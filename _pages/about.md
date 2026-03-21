@@ -27,7 +27,7 @@ Previously I was a Postdoctoral Fellow in the [Department of Biostatistics](http
 
 
 ### We are hiring
-Interested in working with us? Visit [Join Us](https://ziqiaow.github.io/hire/) to learn about graduate rotations and open postdoc positions.
+Interested in working with us? Check out [Join Us](https://ziqiaow.github.io/hire/) to learn about opportunities with our lab.
 
 ### Research summary
 I study how genetics, genomics, and environmental factors together drive the development of human diseases. I specialize in statistical methodology developments, data analysis, and theoretical investigations, and my research typically utilizes large-scale datasets from biobanks and epidemiological studies that include molecular genetic and genomic data, along with human behavioral and lifestyle factors.
