@@ -6,11 +6,11 @@ nav: true
 nav_order: 6
 ---
 
-####  __Graduate students__
+#####  __Graduate students__
 
 If you're interested in joining our graduate program, we invite you to apply here: [UVA Biomedical Sciences PhD program](https://med.virginia.edu/bims/). Graduate students are welcome to rotate in our lab.
 
-####  __Postdoctoral research associates__
+#####  __Postdoctoral research associates__
 We have several openings for postdoctoral research associates. To apply, please send your CV to ziqiao.wang@virginia.edu.
 
 
