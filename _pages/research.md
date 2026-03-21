@@ -22,8 +22,8 @@ We developed a series of novel methods for modeling of polygenic scores (PGS) in
 - __Wang, Z.__, Shi, W., Carroll, R., Chatterjee, N. (2024). Joint Modeling of Gene-Environment Correlations and Interactions Using Polygenic Risk Scores in Case-Control Studies. *__American Journal of Epidemiology__*. DOI: 10.1093/aje/kwae081
 [[Paper]](https://doi.org/10.1093/aje/kwae081) 
 [[Software]](https://github.com/ziqiaow/RetroGE)  
-- __Wang, Z.__, Grosvenor, L., Ray, D., Ruczinski, I., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. (2024+). Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies.
-[[Preprint]](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v1) 
+- __Wang, Z.__, Grosvenor, L., Ray, D., Ruczinski, I., Beaty, T., Volk, H., Ladd-Acosta, C., Chatterjee, N. (2026+). Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies.
+[[Preprint]](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v2)
 [[Software]](https://github.com/ziqiaow/PGS.TRI)  
 
 &nbsp;
@@ -122,7 +122,7 @@ I welcome collaborations with biologists, physicians, epidemiologists, and other
 Johns Hopkins University, I lead the effort in identifying important plasma proteins associated with common solid cancer incidence. I also performed Mendelian randomization analyses to identify potential causal relationships between proteins and incident hypertension. I have also supported projects constructing polygenic risk scores for type 2 diabetes and coronary artery disease, as well as unsupervised clustering using proteomics data to identify disease subtypes in stroke.
 
 - __Wang, Z.__, Burk, V., ..., Chatterjee, N., Platz, E. (2026+). Discovering plasma proteins associated with common solid cancer incidence in ARIC. [[Preprint]](https://www.medrxiv.org/content/10.64898/2026.03.16.26348527v1)
-- Mathews, L., Hu, X., __Wang, Z.__, et al. (2024+). MMP7 as a Causal Factor for Incident Hypertension and its Complications Proteomic Analysis from the Atherosclerosis Risk in Communities (ARIC) Study and Mendelian Randomization Study. 
+- Mathews, L., Hu, X., __Wang, Z.__, et al. (2026+). MMP7 as a Causal Factor for Incident Hypertension and its Complications Proteomic Analysis from the Atherosclerosis Risk in Communities (ARIC) Study and Mendelian Randomization Study. 
 - Dzaye, O., ..., __Wang, Z.__, Chatterjee, N., Matsushita, K., Blaha, M. (2024). Polygenic Risk Scores and Extreme Coronary Artery Calcium Phenotypes in Adults >75 Years Old: The Atherosclerosis Risk in Communities Study. *__Circulation: Cardiovascular Imaging__*. DOI: 10.1161/CIRCIMAGING.123.016377. [[paper]](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.123.016377)
 - Zhang, M., Ru, M., Zhang, J., __Wang, Z.__, et al. (2024). Alcohol consumption does not modify the polygenic risk score-based genetic risk of breast cancer in postmenopausal women: Atherosclerosis Risk in Communities study. *__Cancer Prevention Research__*. DOI: 10.1158/1940-6207.CAPR-24-0208. [[paper]](https://aacrjournals.org/cancerpreventionresearch/article-abstract/doi/10.1158/1940-6207.CAPR-24-0208/750557/Alcohol-consumption-does-not-modify-the-polygenic?redirectedFrom=fulltext)
 
