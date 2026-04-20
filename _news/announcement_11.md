@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered an invited talk at the Statistics Department Colloquium, University of Virginia
+Invited talk at the Statistics Department Colloquium, University of Virginia
