@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_7331.jpg # 5131.jpg 
+  image: IMG_7331_resize.jpg # 5131.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor of Genome Sciences</p>
