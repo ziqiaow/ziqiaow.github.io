@@ -7,11 +7,14 @@
 :root {
   color-scheme: light;
   --global-bg-color: #{v.$white-color};
+  --global-navbar-color: #{$white-color};
+  --navbar-text-color: #{$orange-color};
+  --navbar-hover-color: #{$black-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
   --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$purple-color};
-  --global-hover-color: #{v.$purple-color};
+  --global-theme-color: #{v.$orange-color};
+  --global-hover-color: #{v.$orange-color};
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
