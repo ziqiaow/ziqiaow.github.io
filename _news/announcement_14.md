@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My review paper on statistical methods for modeling gene-environment interplay using polygenic scores is published: ([link to paper](https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2026-0006/html))
+Excited to share that my review paper on statistical methods for modeling gene-environment interplay using polygenic scores is now published! The paper covers methods for empirical PRS by E interactions and correlations, and provides practical guidance on PRS standardization using PC projections and handling overlapping samples between GWAS and target datasets ([paper](https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2026-0006/html))
