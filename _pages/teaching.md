@@ -5,7 +5,8 @@ title: Teaching
 nav: T
 nav_order: 4
 ---
-
+#####  __Statistical Genetics COBI 8302, University of Virginia__
+Instructor, Fall 2026
 
 #####  __Risk Prediction and Precision Medicine 140.721, Department of Biostatistics, Johns Hopkins University__
 Guest lecturer, Fall 2024
